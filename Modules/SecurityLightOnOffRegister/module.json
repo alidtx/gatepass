@@ -1,0 +1,13 @@
+{
+    "name": "SecurityLightOnOffRegister",
+    "alias": "securitylightonoffregister",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SecurityLightOnOffRegister\\Providers\\SecurityLightOnOffRegisterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

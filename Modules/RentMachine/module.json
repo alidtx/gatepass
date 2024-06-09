@@ -1,0 +1,13 @@
+{
+    "name": "RentMachine",
+    "alias": "rentmachine",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RentMachine\\Providers\\RentMachineServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

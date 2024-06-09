@@ -1,0 +1,13 @@
+{
+    "name": "GatepassReceive",
+    "alias": "gatepassreceive",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\GatepassReceive\\Providers\\GatepassReceiveServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

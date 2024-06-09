@@ -1,0 +1,13 @@
+{
+    "name": "ShortLeave",
+    "alias": "shortleave",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ShortLeave\\Providers\\ShortLeaveServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

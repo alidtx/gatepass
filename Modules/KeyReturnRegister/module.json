@@ -1,0 +1,13 @@
+{
+    "name": "KeyReturnRegister",
+    "alias": "keyreturnregister",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\KeyReturnRegister\\Providers\\KeyReturnRegisterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

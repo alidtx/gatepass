@@ -1,0 +1,13 @@
+{
+    "name": "WastageCarryingLabor",
+    "alias": "wastagecarryinglabor",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\WastageCarryingLabor\\Providers\\WastageCarryingLaborServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

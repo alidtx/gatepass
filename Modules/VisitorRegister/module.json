@@ -1,0 +1,13 @@
+{
+    "name": "VisitorRegister",
+    "alias": "visitorregister",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\VisitorRegister\\Providers\\VisitorRegisterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

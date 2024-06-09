@@ -1,0 +1,13 @@
+{
+    "name": "Party",
+    "alias": "party",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Party\\Providers\\PartyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

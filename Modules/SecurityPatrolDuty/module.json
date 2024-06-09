@@ -1,0 +1,13 @@
+{
+    "name": "SecurityPatrolDuty",
+    "alias": "securitypatrolduty",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SecurityPatrolDuty\\Providers\\SecurityPatrolDutyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

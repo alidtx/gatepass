@@ -1,0 +1,13 @@
+{
+    "name": "KeyControl",
+    "alias": "keycontrol",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\KeyControl\\Providers\\KeyControlServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

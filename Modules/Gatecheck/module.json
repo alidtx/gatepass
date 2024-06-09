@@ -1,0 +1,13 @@
+{
+    "name": "Gatecheck",
+    "alias": "gatecheck",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Gatecheck\\Providers\\GatecheckServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

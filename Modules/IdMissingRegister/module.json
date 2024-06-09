@@ -1,0 +1,13 @@
+{
+    "name": "IdMissingRegister",
+    "alias": "idmissingregister",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\IdMissingRegister\\Providers\\IdMissingRegisterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

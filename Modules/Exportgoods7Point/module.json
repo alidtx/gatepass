@@ -1,0 +1,13 @@
+{
+    "name": "Exportgoods7Point",
+    "alias": "exportgoods7point",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Exportgoods7Point\\Providers\\Exportgoods7PointServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

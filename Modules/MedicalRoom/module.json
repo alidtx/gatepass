@@ -1,0 +1,13 @@
+{
+    "name": "MedicalRoom",
+    "alias": "medicalroom",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MedicalRoom\\Providers\\MedicalRoomServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "ShipmentVehicleMessageRegister",
+    "alias": "shipmentvehiclemessageregister",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ShipmentVehicleMessageRegister\\Providers\\ShipmentVehicleMessageRegisterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

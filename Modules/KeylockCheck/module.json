@@ -1,0 +1,13 @@
+{
+    "name": "KeylockCheck",
+    "alias": "keylockcheck",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\KeylockCheck\\Providers\\KeylockCheckServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

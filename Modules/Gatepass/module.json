@@ -1,0 +1,13 @@
+{
+    "name": "Gatepass",
+    "alias": "gatepass",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Gatepass\\Providers\\GatepassServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

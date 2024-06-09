@@ -1,0 +1,13 @@
+{
+    "name": "WastageDelivery",
+    "alias": "wastagedelivery",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\WastageDelivery\\Providers\\WastageDeliveryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

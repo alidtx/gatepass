@@ -1,0 +1,13 @@
+{
+    "name": "RegisterFileInspection",
+    "alias": "registerfileinspection",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RegisterFileInspection\\Providers\\RegisterFileInspectionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

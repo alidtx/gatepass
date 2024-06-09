@@ -1,0 +1,13 @@
+{
+    "name": "SecurityDutyRegister",
+    "alias": "securitydutyregister",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SecurityDutyRegister\\Providers\\SecurityDutyRegisterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

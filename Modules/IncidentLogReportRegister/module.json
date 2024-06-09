@@ -1,0 +1,13 @@
+{
+    "name": "IncidentLogReportRegister",
+    "alias": "incidentlogreportregister",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\IncidentLogReportRegister\\Providers\\IncidentLogReportRegisterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
